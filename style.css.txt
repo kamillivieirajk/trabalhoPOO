@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #000;
+  font-family: Arial;
+}
+
+.header {
+  background: #4969A6;
+  color: #FFF;  
+}
+
+.card{
+  background: #fff;
+  padding: 2rem 2rem;
+  border-radius: .25rem;
+  justify-content: space~between;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2)
+}

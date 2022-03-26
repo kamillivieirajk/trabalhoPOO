@@ -1,0 +1,23 @@
+<body>
+   <header class="header">
+    <h1>teste</h1>
+   <header>
+     
+    <main class="container">
+     <article class="card">
+       <header class="card_header">
+         <p>BRL para dolar</p>
+       </header>
+       <form class="card_form">
+         <input type="text" id=
+ "real" placeholder="informe o valor em real">
+         <button type="button"
+onclick="moeda.converterRealDolar()">converter</button>
+       </form>
+       
+       <section class="content" id="resultado"></section>
+      </article>
+     </main>
+     </body>
+      
+</body>
